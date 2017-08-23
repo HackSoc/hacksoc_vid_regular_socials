@@ -16,6 +16,7 @@ This is a 40 second promo video for telling freshers about HackSoc's regular soc
  * The play button is at the bottom of the screen
  * Take care to check that the fluid simulation works (the pint glass filling with beer) as this depends on a cache that is checked-in to the git repo.
  * Take care to check that the soft-body simulation of the lose film on the film reels works correctly as this also depends on a checked-in cache.
+ * Also check that the font is correctly loaded for all of the text elements in the animation (Roboto slab, as per this: https://www.fontsquirrel.com/fonts/roboto-slab)
 
 5. Render!
  * Press CTRL-F12 to initiate the render. This should [after much rendering] create a file called `hacksoc_vieo.mp4`
